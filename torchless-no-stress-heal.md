@@ -24,10 +24,14 @@ Key Items:
 - 1x idol/dark crown for DD maps
 
 Milestones:
-- Weeks 5-8: Typically one death around this time (luck runs out). After week 8, should have enough trinkets to tackle dungeons consistently without having to escape.
-- Weeks 15-18: Typically one death around this time (overconfidence?). End of early game and beginning of mid game.Should start tackling Apprentice bosses and opening up farmstead/CC around this time.
-- Week 30ish: Kill a veteran boss and Miller.
-- Week 40-50: Typically deaths around this time. Tail end of mid game, should be preparing teams for DD and late game. Clearing veteran bosses around this time.
+- **Weeks 5-8**: Typically one death around this time (luck runs out). After week 8, should have enough trinkets to tackle dungeons consistently without having to escape.
+  
+- **Weeks 15-18**: Typically one death around this time (overconfidence?). End of early game and beginning of mid game.Should start tackling Apprentice bosses and opening up farmstead/CC around this time.
+
+- **Week 30ish**: Kill a veteran boss and Miller.
+  
+- **Week 40-50**: Typically deaths around this time. Tail end of mid game, should be preparing teams for DD and late game. Clearing veteran bosses around this time.
+
 
 **Farmstead Teams**
 | Dungeon | Team Comp | Description | 
